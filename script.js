@@ -1553,3 +1553,17 @@ createImageMarker(
     "images/wakaba_sanchome_park.jpg",
     "https://www.jma.co.jp/en/works/wakaba-3-chome-park/"
 );
+
+// baycity towers kobe west east
+createImageMarker(
+    [34.6844638, 135.1926042],
+    "images/baycity_towers_kobe_west_east.jpg",
+    "https://www.jma.co.jp/works/baycity-towers-kobe-west-east/"
+);
+
+// Ropponmatsu Residence
+createImageMarker(
+    [33.5760754,130.3803493],
+    "images/ropponmatsu_residence.jpg",
+    "https://www.jma.co.jp/en/works/j-gran-ropponmatsu-residence/"
+);
